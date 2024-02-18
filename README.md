@@ -8,7 +8,7 @@
 ![](https://komarev.com/ghpvc/?username=priiii1808&color=red)
 
 ### 📱 My Device
-[![Redmi K50i](https://img.shields.io/badge/Redmi-K50i-blue)](https://www.gsmarena.com/xiaomi_redmi_k50i-11653.php) ![XAGA](https://img.shields.io/badge/Codename-xaga-red)
+[![Redmi K50i](https://img.shields.io/badge/Redmi-K50i-blue)](https://www.gsmarena.com/xiaomi_redmi_k50i-11653.php) [![XAGA](https://img.shields.io/badge/Codename-xaga-red)](https://www.gsmarena.com/xiaomi_redmi_k50i-11653.php)
 
 ### 🌐 You can reach me out on: ###
 <p>
