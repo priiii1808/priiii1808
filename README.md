@@ -24,5 +24,5 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=priiii1808&count_private=true&theme=blue-green&hide_border=true&border_radius=10&showicons=true)]()
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=priiii1808&theme=blue-green&hide_border=true&border_radius=10&showicons=true)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Random Quotes
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
